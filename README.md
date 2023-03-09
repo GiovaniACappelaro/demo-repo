@@ -2,6 +2,10 @@
 
 Some description!
 
-##subheader
+## subheader
 
 Subheader text
+
+## Feature exclusive Section
+
+This secton was made in the 'feature' branch
